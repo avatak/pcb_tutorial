@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/michael/pcb_tutorial/first_pcb.sch)
-    (date "Sun 17 Mar 2019 01:30:45 AM EDT")
+    (date "Sun 17 Mar 2019 01:40:29 AM EDT")
     (tool "Eeschema 5.0.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -120,7 +120,7 @@
       (tstamp 5C8D1F5A))
     (comp (ref F1)
       (value 500mA)
-      (footprint MX_Alps_Hybrid:MX-1U)
+      (footprint Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder)
       (datasheet ~)
       (libsource (lib Device) (part Polyfuse_Small) (description "Resettable fuse, polymeric positive temperature coefficient, small symbol"))
       (sheetpath (names /) (tstamps /))
